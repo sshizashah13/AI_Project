@@ -84,5 +84,4 @@ Tested across 150 procedurally generated test cases:
 
 This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
 
-```
 
